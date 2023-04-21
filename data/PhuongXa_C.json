@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "PhuongXa_C",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 54, "TEN_PHUONG": "Phường An Lạc", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27460", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.10014330148, "Shape_Area": 0.00040137841491299999 }, "geometry": { "type": "Point", "coordinates": [ 106.612118484359101, 10.725225491897508 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 163, "TEN_PHUONG": "Phường Bình Hưng Hòa", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27436", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.105285565111, "Shape_Area": 0.000373406336233 }, "geometry": { "type": "Point", "coordinates": [ 106.604139581432079, 10.800908131100785 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 168, "TEN_PHUONG": "Phường Bình Hưng Hoà A", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27439", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.087365873672499997, "Shape_Area": 0.00038515443620700001 }, "geometry": { "type": "Point", "coordinates": [ 106.608026029110547, 10.783757545153096 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 170, "TEN_PHUONG": "Phường Bình Hưng Hoà B", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27442", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.135380251053, "Shape_Area": 0.00060310735230099998 }, "geometry": { "type": "Point", "coordinates": [ 106.591499933006787, 10.807644764139107 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 171, "TEN_PHUONG": "Phường Bình Trị Đông", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27445", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.065585665995799999, "Shape_Area": 0.00024460197505100001 }, "geometry": { "type": "Point", "coordinates": [ 106.616444085537893, 10.766008484582862 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 172, "TEN_PHUONG": "Phường Bình Trị Đông A", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27448", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.103675781616, "Shape_Area": 0.00038550667713999997 }, "geometry": { "type": "Point", "coordinates": [ 106.597105296508644, 10.769427390054554 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 197, "TEN_PHUONG": "Phường Tân Tạo", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27454", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.116142907352, "Shape_Area": 0.000427844372992 }, "geometry": { "type": "Point", "coordinates": [ 106.594739426995062, 10.758310589151975 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 198, "TEN_PHUONG": "Phường Bình Trị Đông B", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27451", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.099052519368899999, "Shape_Area": 0.00035847185753699998 }, "geometry": { "type": "Point", "coordinates": [ 106.609336390769286, 10.745127137848179 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 256, "TEN_PHUONG": "Phường Tân Tạo A", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27457", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.14244257521600001, "Shape_Area": 0.00101786609301 }, "geometry": { "type": "Point", "coordinates": [ 106.581197620520996, 10.74214893045446 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 277, "TEN_PHUONG": "Phường An Lạc A", "TEN_QUAN": "Quận Bình Tân", "MA_PX": "27463", "MA_QH": "777", "CAPHC": "Phường", "Shape_Leng": 0.063754720685999994, "Shape_Area": 9.3688860214299994e-05 }, "geometry": { "type": "Point", "coordinates": [ 106.622121725137461, 10.747273041448764 ] } }
+]
+}
